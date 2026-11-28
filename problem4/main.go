@@ -10,6 +10,10 @@ import (
 	"path/filepath"
 )
 
+/*前面的忘记截图了😭
+ *不过也没写多少其实
+ */
+
 type Resquest struct {
 	Username string `json:"username`
 	Password string `json:"password`

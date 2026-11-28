@@ -1,0 +1,9 @@
+# 验证用的临时克隆，不纳入仓库
+problem1/blog-backend-starter/blog-backend/docs/incidents/.check/
+
+# Go 构建产物
+/blog-backend
+/actor-starter
+*.exe
+*.test
+*.out

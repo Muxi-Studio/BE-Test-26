@@ -7,3 +7,6 @@ problem1/blog-backend-starter/blog-backend/docs/incidents/.check/
 *.exe
 *.test
 *.out
+
+# 本地克隆的目标仓库，不提交
+/BE-Test-26/
